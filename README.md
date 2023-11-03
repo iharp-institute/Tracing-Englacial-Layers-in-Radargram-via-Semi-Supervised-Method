@@ -6,5 +6,8 @@ This study aims to address the need for efficient and precise tracing methods in
 
 ## Paper
 The paper has been accepted in the proceedings of AAAI 2023 Fall Symposium Series.
+
+Jebeli, Atefeh, Tama, Bayu Adhi, Purushotham, Sanjay, and Janeja, Vandana “Tracing Englacial Layers in Radargram via Semi-supervised Method: A Preliminary Result” Association for the Advancement of Artificial Intelligence Fall Symposium, September 2023
+
 ## Citation
 If you use any part of this code for academic work, research, or any other projects, please cite our paper.
